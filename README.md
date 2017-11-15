@@ -2,7 +2,7 @@
 
 Unlike many of the other departments within UW the math department is not completely transparent with who is teaching its courses. There is no unified area as of yet to get this data so this program scrapes what it can find. For now this is whatever is on the professors page on the faculty website (if you find this information somewhere else publically accessable please let me know).
 
-This program also pulls from RateMyProfessor.com to present the rating next to the professor when possible. This data is nutoriously innacurate however so use it at your own risk. My own professor (prof Athreya) is currently listed with the lowest rating of the department (a 1.6) yet he is actually a super nice professor that does a brilliant job of explaining thing and keeping good notes and resources on his website.
+This program also pulls from RateMyProfessor.com to present the rating next to the professor when possible. This data is nutoriously innacurate so treat its ratings as a grain of salt.
 
 All of this data is then put into text files that you can refer to at a later date
 
