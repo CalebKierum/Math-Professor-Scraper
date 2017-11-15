@@ -1,0 +1,191 @@
+-------------------------------------------
+Report by class:
+
+MATH 111 Algebra With Applications
+	Professor Ebru Bekyel (3.1) section: A
+	Professor Ebru Bekyel (3.1) section: B
+
+MATH 112 Application Of Calculus To Business And Economics
+	Professor Andrew Loveless (4.8) section: A
+	Professor Andrew Loveless (4.8) section: B
+
+MATH 120 Precalculus
+	Professor Jonah Ostroff (4.8) section: A
+	Professor Jonah Ostroff (4.8) section: B
+
+MATH 124 Calculus With Analytic Geometry I
+	Professor Ebru Bekyel (3.1) section: G
+	Professor Patrick Perkins (3.8) section: C
+	Professor Neal Koblitz (2.5) section: A
+	Professor Neal Koblitz (2.5) section: B
+	Professor Elena Pezzoli (3.6) section: D
+	Professor Elena Pezzoli (3.6) section: E
+
+MATH 125 Calculus With Analytic Geometry II
+	Professor Andrew Loveless (4.8) section: C
+	Professor Kenneth Bube (4.7) section: F
+	Professor Daniel Pollack (4.0) section: G
+	Professor Steffen Rohde (4.3) section: A
+	Professor Steffen Rohde (4.3) section: B
+	Professor Alexandra Nichifor (4.7) section: D
+	Professor Alexandra Nichifor (4.7) section: E
+	Professor Alexandra Nichifor (4.7) section: H
+
+MATH 126 Calculus With Analytic Geometry III
+	Professor Soumik Pal (3.0) section: D
+	Professor Soumik Pal (3.0) section: E
+	Professor James Burke (3.4) section: B
+	Professor Jennifer Taggart (4.2) section: C
+	Professor Jonah Ostroff (4.8) section: F
+
+MATH 135 Accelerated [Honors] Calculus
+	Professor William Monty (NA) section: A
+
+MATH 300 Introduction To Mathematical Reasoning
+	Professor Vasu Tewari (4.8) section: C
+	Professor Mariana Smit Vega Garcia (5.0) section: D
+	Professor Natalie Naehrig (4.3) section: A
+	Professor Natalie Naehrig (4.3) section: B
+
+MATH 307 Introduction To Differential Equations
+	Professor Heather Lee (NA) section: K
+	Professor John Sylvester (3.1) section: M
+	Professor Fanny Dos (2.7) section: B
+	Professor John Palmieri (3.9) section: N
+	Professor Andrea Heald (2.3) section: D
+	Professor Liping Xu (NA) section: G
+	Professor Liping Xu (NA) section: H
+
+MATH 308 Matrix Algebra With Applications
+	Professor Amos Turchet (4.8) section: D
+	Professor Rekha Thomas (4.3) section: E
+	Professor Spencer Becker-Kahn (NA) section: I
+	Professor Jake Levinson (NA) section: K
+	Professor Paul Smith (2.4) section: B
+	Professor Paul Smith (2.4) section: C
+
+MATH 309 Linear Analysis
+	Professor Yu Yuan (2.7) section: B
+	Professor Yu Yuan (2.7) section: C
+
+MATH 324 Advanced Multivariable Calculus I
+	Professor Francisco Munoz (4.4) section: C
+	Professor Lucas Braune (NA) section: B
+
+MATH 327 Introductory Real Analysis I
+	Professor Fanny Dos (2.7) section: B
+	Professor Jennifer Taggart (4.2) section: C
+
+MATH 328 Introductory Real Analysis II
+	Professor Selim Tuncel (4.4) section: A
+	Professor Selim Tuncel (4.4) section: B
+
+MATH 335 Accelerated [Honors] Advanced Calculus
+	Professor James Morrow (NA) section: A
+
+MATH 380 Intermediate Topics In Undergraduate Mathematics
+	Professor Isabella Novik (3.8) section: A
+
+MATH 381 Discrete Mathematical Modeling
+	Professor Matthew Conroy (2.9) section: A
+
+MATH 394 Probability I
+	Professor Krzysztof Burdzy (4.3) section: A
+
+MATH 395 Probability II
+	Professor Krzysztof Burdzy (4.3) section: B
+
+MATH 398 Special Topics In Mathematics
+	Professor James Morrow (NA) section: A
+
+MATH 403 Introduction To Modern Algebra
+	Professor Jarod Daniel (NA) section: B
+	Professor David Collingwood (3.6) section: A
+
+MATH 407 Linear Optimization
+	Professor James Burke (3.4) section: A
+	Professor James Burke (3.4) section: B
+
+MATH 408 Nonlinear Optimization
+	Professor Dmitriy Drusvyatskiy (4.0) section: A
+	Professor Dmitriy Drusvyatskiy (4.0) section: B
+
+MATH 412 Introduction To Modern Algebra For Teachers
+	Professor David Collingwood (3.6) section: A
+
+MATH 425 Fundamental Concepts Of Analysis
+	Professor Hart Smith (3.8) section: A
+
+MATH 428 Complex Analysis
+	Professor Hart Smith (3.8) section: A
+
+MATH 442 Differential Geometry
+	Professor Jonathan Beardsley (1.8) section: A
+
+MATH 444 Geometry For Teachers
+	Professor Christopher Hoffman (3.3) section: A
+
+MATH 462 Combinatorial Theory
+	Professor Ioana Dumitriu (4.5) section: A
+
+MATH 505 Modern Algebra
+	Professor Sándor Kovács (NA) section: A
+
+MATH 510 Seminar In Algebra
+	Professor Sándor Kovács (NA) section: B
+	Professor Paul Smith (2.4) section: A
+
+MATH 514 Networks And Combinatorial Optimization
+	Professor Thomas Rothvoss (2.6) section: A
+
+MATH 522 Advanced Probability
+	Professor Soumik Pal (3.0) section: A
+
+MATH 525 Real Analysis
+	Professor Kenneth Bube (4.7) section: A
+
+MATH 530 Seminar In Analysis
+	Professor Donald Marshall (2.6) section: C
+	Professor Gunther Uhlmann (NA) section: B
+	Professor James Burke (3.4) section: D
+	Professor Steffen Rohde (4.3) section: A
+
+MATH 535 Complex Analysis
+	Professor Steffen Rohde (4.3) section: A
+
+MATH 545 Topology And Geometry Of Manifolds
+	Professor Judith Arms (4.1) section: A
+
+MATH 550 Seminar In Geometry
+	Professor Sara Billey (NA) section: B
+	Professor Bianca Viray (2.7) section: C
+
+MATH 562 Foundations Of Combinatorics
+	Professor Sara Billey (NA) section: A
+
+MATH 565 Algebraic Topology
+	Professor John Palmieri (3.9) section: A
+
+MATH 568 Algebraic Geometry
+	Professor Sándor Kovács (NA) section: A
+
+MATH 575 Fundamental Concepts Of Analysis
+	Professor Hart Smith (3.8) section: A
+
+MATH 580 Current Topics In Mathematics
+	Professor Isabella Novik (3.8) section: A
+	Professor Jayadev Athreya (1.6) section: B
+
+MATH 582 Special Topics In Mathematics
+	Professor Tatiana Toro (3.5) section: A
+	Professor Amos Turchet (4.8) section: G
+	Professor Ioana Dumitriu (4.5) section: C
+	Professor Max Lieblich (3.7) section: F
+	Professor Jarod Daniel (NA) section: D
+
+MATH 600 Independent Study Or Research
+	Professor Neal Koblitz (2.5) section: A
+
+MATH 800 Doctoral Dissertation
+	Professor Dmitriy Drusvyatskiy (4.0) section: A
+

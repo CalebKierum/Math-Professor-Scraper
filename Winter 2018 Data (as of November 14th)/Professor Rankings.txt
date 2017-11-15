@@ -1,0 +1,57 @@
+-------------------------------------------
+Ranking of each professor listed as teaching courses this quarter based on ratemyprofessor.com:
+
+1. Mariana Smit Vega Garcia: 5.0
+2. Amos Turchet: 4.8
+3. Vasu Tewari: 4.8
+4. Jonah Ostroff: 4.8
+5. Andrew Loveless: 4.8
+6. Alexandra Nichifor: 4.7
+7. Kenneth Bube: 4.7
+8. Ioana Dumitriu: 4.5
+9. Selim Tuncel: 4.4
+10. Francisco Munoz: 4.4
+11. Natalie Naehrig: 4.3
+12. Rekha Thomas: 4.3
+13. Steffen Rohde: 4.3
+14. Krzysztof Burdzy: 4.3
+15. Jennifer Taggart: 4.2
+16. Judith Arms: 4.1
+17. Daniel Pollack: 4.0
+18. Dmitriy Drusvyatskiy: 4.0
+19. John Palmieri: 3.9
+20. Patrick Perkins: 3.8
+21. Isabella Novik: 3.8
+22. Hart Smith: 3.8
+23. Max Lieblich: 3.7
+24. David Collingwood: 3.6
+25. Elena Pezzoli: 3.6
+26. Tatiana Toro: 3.5
+27. James Burke: 3.4
+28. Christopher Hoffman: 3.3
+29. John Sylvester: 3.1
+30. Ebru Bekyel: 3.1
+31. Soumik Pal: 3.0
+32. Matthew Conroy: 2.9
+33. Fanny Dos: 2.7
+34. Yu Yuan: 2.7
+35. Bianca Viray: 2.7
+36. Donald Marshall: 2.6
+37. Thomas Rothvoss: 2.6
+38. Neal Koblitz: 2.5
+39. Paul Smith: 2.4
+40. Andrea Heald: 2.3
+41. Jonathan Beardsley: 1.8
+42. Jayadev Athreya: 1.6
+
+Gunther Uhlmann: NA
+Heather Lee: NA
+Spencer Becker-Kahn: NA
+William Monty: NA
+Jarod Daniel: NA
+Liping Xu: NA
+Sara Billey: NA
+Lucas Braune: NA
+James Morrow: NA
+Sándor Kovács: NA
+Jake Levinson: NA

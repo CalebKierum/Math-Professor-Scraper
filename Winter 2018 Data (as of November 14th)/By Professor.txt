@@ -1,0 +1,205 @@
+-------------------------------------------
+Report by professor:
+
+Professor Alexandra Nichifor Rating: 4.7
+	MATH 125 Calculus With Analytic Geometry II section D
+	MATH 125 Calculus With Analytic Geometry II section E
+	MATH 125 Calculus With Analytic Geometry II section H
+
+Professor Amos Turchet Rating: 4.8
+	MATH 308 Matrix Algebra With Applications section D
+	MATH 582 Special Topics In Mathematics section G
+
+Professor Andrea Heald Rating: 2.3
+	MATH 307 Introduction To Differential Equations section D
+
+Professor Andrew Loveless Rating: 4.8
+	MATH 112 Application Of Calculus To Business And Economics section A
+	MATH 112 Application Of Calculus To Business And Economics section B
+	MATH 125 Calculus With Analytic Geometry II section C
+
+Professor Bianca Viray Rating: 2.7
+	MATH 550 Seminar In Geometry section C
+
+Professor Christopher Hoffman Rating: 3.3
+	MATH 444 Geometry For Teachers section A
+
+Professor Daniel Pollack Rating: 4.0
+	MATH 125 Calculus With Analytic Geometry II section G
+
+Professor David Collingwood Rating: 3.6
+	MATH 403 Introduction To Modern Algebra section A
+	MATH 412 Introduction To Modern Algebra For Teachers section A
+
+Professor Dmitriy Drusvyatskiy Rating: 4.0
+	MATH 408 Nonlinear Optimization section A
+	MATH 408 Nonlinear Optimization section B
+	MATH 800 Doctoral Dissertation section A
+
+Professor Donald Marshall Rating: 2.6
+	MATH 530 Seminar In Analysis section C
+
+Professor Ebru Bekyel Rating: 3.1
+	MATH 111 Algebra With Applications section A
+	MATH 111 Algebra With Applications section B
+	MATH 124 Calculus With Analytic Geometry I section G
+
+Professor Elena Pezzoli Rating: 3.6
+	MATH 124 Calculus With Analytic Geometry I section D
+	MATH 124 Calculus With Analytic Geometry I section E
+
+Professor Fanny Dos Rating: 2.7
+	MATH 307 Introduction To Differential Equations section B
+	MATH 327 Introductory Real Analysis I section B
+
+Professor Francisco Munoz Rating: 4.4
+	MATH 324 Advanced Multivariable Calculus I section C
+
+Professor Gunther Uhlmann Rating: NA
+	MATH 530 Seminar In Analysis section B
+
+Professor Hart Smith Rating: 3.8
+	MATH 425 Fundamental Concepts Of Analysis section A
+	MATH 428 Complex Analysis section A
+	MATH 575 Fundamental Concepts Of Analysis section A
+
+Professor Heather Lee Rating: NA
+	MATH 307 Introduction To Differential Equations section K
+
+Professor Ioana Dumitriu Rating: 4.5
+	MATH 462 Combinatorial Theory section A
+	MATH 582 Special Topics In Mathematics section C
+
+Professor Isabella Novik Rating: 3.8
+	MATH 380 Intermediate Topics In Undergraduate Mathematics section A
+	MATH 580 Current Topics In Mathematics section A
+
+Professor Jake Levinson Rating: NA
+	MATH 308 Matrix Algebra With Applications section K
+
+Professor James Burke Rating: 3.4
+	MATH 126 Calculus With Analytic Geometry III section B
+	MATH 407 Linear Optimization section A
+	MATH 407 Linear Optimization section B
+	MATH 530 Seminar In Analysis section D
+
+Professor James Morrow Rating: NA
+	MATH 335 Accelerated [Honors] Advanced Calculus section A
+	MATH 398 Special Topics In Mathematics section A
+
+Professor Jarod Daniel Rating: NA
+	MATH 403 Introduction To Modern Algebra section B
+	MATH 582 Special Topics In Mathematics section D
+
+Professor Jayadev Athreya Rating: 1.6
+	MATH 580 Current Topics In Mathematics section B
+
+Professor Jennifer Taggart Rating: 4.2
+	MATH 126 Calculus With Analytic Geometry III section C
+	MATH 327 Introductory Real Analysis I section C
+
+Professor John Palmieri Rating: 3.9
+	MATH 307 Introduction To Differential Equations section N
+	MATH 565 Algebraic Topology section A
+
+Professor John Sylvester Rating: 3.1
+	MATH 307 Introduction To Differential Equations section M
+
+Professor Jonah Ostroff Rating: 4.8
+	MATH 120 Precalculus section A
+	MATH 120 Precalculus section B
+	MATH 126 Calculus With Analytic Geometry III section F
+
+Professor Jonathan Beardsley Rating: 1.8
+	MATH 442 Differential Geometry section A
+
+Professor Judith Arms Rating: 4.1
+	MATH 545 Topology And Geometry Of Manifolds section A
+
+Professor Kenneth Bube Rating: 4.7
+	MATH 125 Calculus With Analytic Geometry II section F
+	MATH 525 Real Analysis section A
+
+Professor Krzysztof Burdzy Rating: 4.3
+	MATH 394 Probability I section A
+	MATH 395 Probability II section B
+
+Professor Liping Xu Rating: NA
+	MATH 307 Introduction To Differential Equations section G
+	MATH 307 Introduction To Differential Equations section H
+
+Professor Lucas Braune Rating: NA
+	MATH 324 Advanced Multivariable Calculus I section B
+
+Professor Mariana Smit Vega Garcia Rating: 5.0
+	MATH 300 Introduction To Mathematical Reasoning section D
+
+Professor Matthew Conroy Rating: 2.9
+	MATH 381 Discrete Mathematical Modeling section A
+
+Professor Max Lieblich Rating: 3.7
+	MATH 582 Special Topics In Mathematics section F
+
+Professor Natalie Naehrig Rating: 4.3
+	MATH 300 Introduction To Mathematical Reasoning section A
+	MATH 300 Introduction To Mathematical Reasoning section B
+
+Professor Neal Koblitz Rating: 2.5
+	MATH 124 Calculus With Analytic Geometry I section A
+	MATH 124 Calculus With Analytic Geometry I section B
+	MATH 600 Independent Study Or Research section A
+
+Professor Patrick Perkins Rating: 3.8
+	MATH 124 Calculus With Analytic Geometry I section C
+
+Professor Paul Smith Rating: 2.4
+	MATH 308 Matrix Algebra With Applications section B
+	MATH 308 Matrix Algebra With Applications section C
+	MATH 510 Seminar In Algebra section A
+
+Professor Rekha Thomas Rating: 4.3
+	MATH 308 Matrix Algebra With Applications section E
+
+Professor Sara Billey Rating: NA
+	MATH 550 Seminar In Geometry section B
+	MATH 562 Foundations Of Combinatorics section A
+
+Professor Selim Tuncel Rating: 4.4
+	MATH 328 Introductory Real Analysis II section A
+	MATH 328 Introductory Real Analysis II section B
+
+Professor Soumik Pal Rating: 3.0
+	MATH 126 Calculus With Analytic Geometry III section D
+	MATH 126 Calculus With Analytic Geometry III section E
+	MATH 522 Advanced Probability section A
+
+Professor Spencer Becker-Kahn Rating: NA
+	MATH 308 Matrix Algebra With Applications section I
+
+Professor Steffen Rohde Rating: 4.3
+	MATH 125 Calculus With Analytic Geometry II section A
+	MATH 125 Calculus With Analytic Geometry II section B
+	MATH 530 Seminar In Analysis section A
+	MATH 535 Complex Analysis section A
+
+Professor Sándor Kovács Rating: NA
+	MATH 505 Modern Algebra section A
+	MATH 510 Seminar In Algebra section B
+	MATH 568 Algebraic Geometry section A
+
+Professor Tatiana Toro Rating: 3.5
+	MATH 582 Special Topics In Mathematics section A
+
+Professor Thomas Rothvoss Rating: 2.6
+	MATH 514 Networks And Combinatorial Optimization section A
+
+Professor Vasu Tewari Rating: 4.8
+	MATH 300 Introduction To Mathematical Reasoning section C
+
+Professor William Monty Rating: NA
+	MATH 135 Accelerated [Honors] Calculus section A
+
+Professor Yu Yuan Rating: 2.7
+	MATH 309 Linear Analysis section B
+	MATH 309 Linear Analysis section C
+
