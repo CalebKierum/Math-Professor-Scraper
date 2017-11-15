@@ -34,7 +34,7 @@ MATH 125 Calculus With Analytic Geometry II
 MATH 126 Calculus With Analytic Geometry III
 	Professor Soumik Pal (3.0) section: D
 	Professor Soumik Pal (3.0) section: E
-	Professor James Burke (3.4) section: B
+	Professor James Burke (2.6) section: B
 	Professor Jennifer Taggart (4.2) section: C
 	Professor Jonah Ostroff (4.8) section: F
 
@@ -61,15 +61,15 @@ MATH 308 Matrix Algebra With Applications
 	Professor Rekha Thomas (4.3) section: E
 	Professor Spencer Becker-Kahn (NA) section: I
 	Professor Jake Levinson (NA) section: K
-	Professor Paul Smith (2.4) section: B
-	Professor Paul Smith (2.4) section: C
+	Professor Paul Smith (2.3) section: B
+	Professor Paul Smith (2.3) section: C
 
 MATH 309 Linear Analysis
 	Professor Yu Yuan (2.7) section: B
 	Professor Yu Yuan (2.7) section: C
 
 MATH 324 Advanced Multivariable Calculus I
-	Professor Francisco Munoz (4.4) section: C
+	Professor Francisco Munoz (4.5) section: C
 	Professor Lucas Braune (NA) section: B
 
 MATH 327 Introductory Real Analysis I
@@ -103,8 +103,8 @@ MATH 403 Introduction To Modern Algebra
 	Professor David Collingwood (3.6) section: A
 
 MATH 407 Linear Optimization
-	Professor James Burke (3.4) section: A
-	Professor James Burke (3.4) section: B
+	Professor James Burke (2.6) section: A
+	Professor James Burke (2.6) section: B
 
 MATH 408 Nonlinear Optimization
 	Professor Dmitriy Drusvyatskiy (4.0) section: A
@@ -123,7 +123,7 @@ MATH 442 Differential Geometry
 	Professor Jonathan Beardsley (1.8) section: A
 
 MATH 444 Geometry For Teachers
-	Professor Christopher Hoffman (3.3) section: A
+	Professor Christopher Hoffman (2.9) section: A
 
 MATH 462 Combinatorial Theory
 	Professor Ioana Dumitriu (4.5) section: A
@@ -133,7 +133,7 @@ MATH 505 Modern Algebra
 
 MATH 510 Seminar In Algebra
 	Professor Sándor Kovács (NA) section: B
-	Professor Paul Smith (2.4) section: A
+	Professor Paul Smith (2.3) section: A
 
 MATH 514 Networks And Combinatorial Optimization
 	Professor Thomas Rothvoss (2.6) section: A
@@ -145,9 +145,9 @@ MATH 525 Real Analysis
 	Professor Kenneth Bube (4.7) section: A
 
 MATH 530 Seminar In Analysis
-	Professor Donald Marshall (2.6) section: C
+	Professor Donald Marshall (3.6) section: C
 	Professor Gunther Uhlmann (NA) section: B
-	Professor James Burke (3.4) section: D
+	Professor James Burke (2.6) section: D
 	Professor Steffen Rohde (4.3) section: A
 
 MATH 535 Complex Analysis
@@ -174,7 +174,7 @@ MATH 575 Fundamental Concepts Of Analysis
 
 MATH 580 Current Topics In Mathematics
 	Professor Isabella Novik (3.8) section: A
-	Professor Jayadev Athreya (1.6) section: B
+	Professor Jayadev Athreya (5.0) section: B
 
 MATH 582 Special Topics In Mathematics
 	Professor Tatiana Toro (3.5) section: A

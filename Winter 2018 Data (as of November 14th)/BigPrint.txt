@@ -4,13 +4,13 @@ Reporting all data:
 Professor Hart Smith (3.8) is teaching Fundamental Concepts Of Analysis (425)  section A
 Professor Hart Smith (3.8) is teaching Complex Analysis (428)  section A
 Professor Hart Smith (3.8) is teaching Fundamental Concepts Of Analysis (575)  section A
-Professor Donald Marshall (2.6) is teaching Seminar In Analysis (530)  section C
+Professor Donald Marshall (3.6) is teaching Seminar In Analysis (530)  section C
 Professor Judith Arms (4.1) is teaching Topology And Geometry Of Manifolds (545)  section A
 Professor Thomas Rothvoss (2.6) is teaching Networks And Combinatorial Optimization (514)  section A
 Professor Sara Billey (NA) is teaching Seminar In Geometry (550)  section B
 Professor Sara Billey (NA) is teaching Foundations Of Combinatorics (562)  section A
 Professor Tatiana Toro (3.5) is teaching Special Topics In Mathematics (582)  section A
-Professor Francisco Munoz (4.4) is teaching Advanced Multivariable Calculus I (324)  section C
+Professor Francisco Munoz (4.5) is teaching Advanced Multivariable Calculus I (324)  section C
 Professor Heather Lee (NA) is teaching Introduction To Differential Equations (307)  section K
 Professor William Monty (NA) is teaching Accelerated [Honors] Calculus (135)  section A
 Professor Amos Turchet (4.8) is teaching Matrix Algebra With Applications (308)  section D
@@ -37,10 +37,10 @@ Professor Patrick Perkins (3.8) is teaching Calculus With Analytic Geometry I (1
 Professor Spencer Becker-Kahn (NA) is teaching Matrix Algebra With Applications (308)  section I
 Professor John Sylvester (3.1) is teaching Introduction To Differential Equations (307)  section M
 Professor Bianca Viray (2.7) is teaching Seminar In Geometry (550)  section C
-Professor James Burke (3.4) is teaching Calculus With Analytic Geometry III (126)  section B
-Professor James Burke (3.4) is teaching Linear Optimization (407)  section A
-Professor James Burke (3.4) is teaching Linear Optimization (407)  section B
-Professor James Burke (3.4) is teaching Seminar In Analysis (530)  section D
+Professor James Burke (2.6) is teaching Calculus With Analytic Geometry III (126)  section B
+Professor James Burke (2.6) is teaching Linear Optimization (407)  section A
+Professor James Burke (2.6) is teaching Linear Optimization (407)  section B
+Professor James Burke (2.6) is teaching Seminar In Analysis (530)  section D
 Professor Fanny Dos (2.7) is teaching Introduction To Differential Equations (307)  section B
 Professor Fanny Dos (2.7) is teaching Introductory Real Analysis I (327)  section B
 Professor John Palmieri (3.9) is teaching Introduction To Differential Equations (307)  section N
@@ -63,9 +63,9 @@ Professor Steffen Rohde (4.3) is teaching Calculus With Analytic Geometry II (12
 Professor Steffen Rohde (4.3) is teaching Calculus With Analytic Geometry II (125)  section B
 Professor Steffen Rohde (4.3) is teaching Seminar In Analysis (530)  section A
 Professor Steffen Rohde (4.3) is teaching Complex Analysis (535)  section A
-Professor Christopher Hoffman (3.3) is teaching Geometry For Teachers (444)  section A
+Professor Christopher Hoffman (2.9) is teaching Geometry For Teachers (444)  section A
 Professor Max Lieblich (3.7) is teaching Special Topics In Mathematics (582)  section F
-Professor Jayadev Athreya (1.6) is teaching Current Topics In Mathematics (580)  section B
+Professor Jayadev Athreya (5.0) is teaching Current Topics In Mathematics (580)  section B
 Professor Neal Koblitz (2.5) is teaching Calculus With Analytic Geometry I (124)  section A
 Professor Neal Koblitz (2.5) is teaching Calculus With Analytic Geometry I (124)  section B
 Professor Neal Koblitz (2.5) is teaching Independent Study Or Research (600)  section A
@@ -87,9 +87,9 @@ Professor Sándor Kovács (NA) is teaching Seminar In Algebra (510)  section B
 Professor Sándor Kovács (NA) is teaching Algebraic Geometry (568)  section A
 Professor Liping Xu (NA) is teaching Introduction To Differential Equations (307)  section G
 Professor Liping Xu (NA) is teaching Introduction To Differential Equations (307)  section H
-Professor Paul Smith (2.4) is teaching Matrix Algebra With Applications (308)  section B
-Professor Paul Smith (2.4) is teaching Matrix Algebra With Applications (308)  section C
-Professor Paul Smith (2.4) is teaching Seminar In Algebra (510)  section A
+Professor Paul Smith (2.3) is teaching Matrix Algebra With Applications (308)  section B
+Professor Paul Smith (2.3) is teaching Matrix Algebra With Applications (308)  section C
+Professor Paul Smith (2.3) is teaching Seminar In Algebra (510)  section A
 Professor David Collingwood (3.6) is teaching Introduction To Modern Algebra (403)  section A
 Professor David Collingwood (3.6) is teaching Introduction To Modern Algebra For Teachers (412)  section A
 Professor Matthew Conroy (2.9) is teaching Discrete Mathematical Modeling (381)  section A

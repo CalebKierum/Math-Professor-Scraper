@@ -21,7 +21,7 @@ Professor Andrew Loveless Rating: 4.8
 Professor Bianca Viray Rating: 2.7
 	MATH 550 Seminar In Geometry section C
 
-Professor Christopher Hoffman Rating: 3.3
+Professor Christopher Hoffman Rating: 2.9
 	MATH 444 Geometry For Teachers section A
 
 Professor Daniel Pollack Rating: 4.0
@@ -36,7 +36,7 @@ Professor Dmitriy Drusvyatskiy Rating: 4.0
 	MATH 408 Nonlinear Optimization section B
 	MATH 800 Doctoral Dissertation section A
 
-Professor Donald Marshall Rating: 2.6
+Professor Donald Marshall Rating: 3.6
 	MATH 530 Seminar In Analysis section C
 
 Professor Ebru Bekyel Rating: 3.1
@@ -52,7 +52,7 @@ Professor Fanny Dos Rating: 2.7
 	MATH 307 Introduction To Differential Equations section B
 	MATH 327 Introductory Real Analysis I section B
 
-Professor Francisco Munoz Rating: 4.4
+Professor Francisco Munoz Rating: 4.5
 	MATH 324 Advanced Multivariable Calculus I section C
 
 Professor Gunther Uhlmann Rating: NA
@@ -77,7 +77,7 @@ Professor Isabella Novik Rating: 3.8
 Professor Jake Levinson Rating: NA
 	MATH 308 Matrix Algebra With Applications section K
 
-Professor James Burke Rating: 3.4
+Professor James Burke Rating: 2.6
 	MATH 126 Calculus With Analytic Geometry III section B
 	MATH 407 Linear Optimization section A
 	MATH 407 Linear Optimization section B
@@ -91,7 +91,7 @@ Professor Jarod Daniel Rating: NA
 	MATH 403 Introduction To Modern Algebra section B
 	MATH 582 Special Topics In Mathematics section D
 
-Professor Jayadev Athreya Rating: 1.6
+Professor Jayadev Athreya Rating: 5.0
 	MATH 580 Current Topics In Mathematics section B
 
 Professor Jennifer Taggart Rating: 4.2
@@ -152,7 +152,7 @@ Professor Neal Koblitz Rating: 2.5
 Professor Patrick Perkins Rating: 3.8
 	MATH 124 Calculus With Analytic Geometry I section C
 
-Professor Paul Smith Rating: 2.4
+Professor Paul Smith Rating: 2.3
 	MATH 308 Matrix Algebra With Applications section B
 	MATH 308 Matrix Algebra With Applications section C
 	MATH 510 Seminar In Algebra section A

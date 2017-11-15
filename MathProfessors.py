@@ -43,7 +43,7 @@ def findUWProfessor(soup):
     for prof in professors:
         school = prof.find("span", class_="sub").text
         if "University of Washington" in school:
-            return soup.find("ul", class_="listings").find("a").get("href")
+            return prof.find("a").get("href")
 
     return "NULL"
 
